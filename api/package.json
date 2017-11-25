@@ -1,0 +1,17 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "babel-register": "^6.26.0",
+    "body-parser": "^1.18.1",
+    "koa": "^2.3.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-morgan": "^1.0.1",
+    "koa-router": "^7.2.1",
+    "mongodb": "^2.2.31"
+  }
+}
